@@ -3,7 +3,7 @@
 
 | Nama | NRP |
 | ---- | :-: |
-| Nama | NRP |
+| Raditya Hardian Santoso | 5027231033 |
 
 ## Directory Tree
 
